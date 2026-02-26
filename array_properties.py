@@ -1,5 +1,5 @@
 import numpy as np
-'''
+
 arr_2d = np.array([[1,2,3],
                     [4,5,6]])
 
@@ -34,4 +34,4 @@ print(np.min(arr))
 print(np.max(arr))
 print(np.std(arr))
 print(np.var(arr))
-'''
+
